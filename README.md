@@ -1,8 +1,26 @@
-# Unit 12 MySQL Homework: Employee Tracker
+# Employee Tracker Using MySQL
 
-Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
+## Description
+I was tasked with creating an Employee Tracker CLI application for building and maintaining a company's employee database. Built on MySQL and leveraging modularity in the structure of the Employee Tracker, it can scale appropriately with a companies growth without reconfiguring the core structure of the internal employee database. This application is meant to be a foundation that can be built upon throughout the growth of the business. This Employee Tracker application allows managers or other staff within the company to view all employees, roles, as well as departments. It also allows for adding employees, roles, departments and updating employees all from the CLI.
 
-## Instructions
+
+## DEMO
+- Click on the GIF for a longer tutorial!
+
+
+
+## Usage Instructions
+- In order to use this application you will need to first run an npm install in your CLI to install the dependencies that have been loaded into the json files for you. Once this is done, run node connection.js in your CLI to start the prompts that will walk you through the various tasks you can perform with this application.
+
+
+## Technologies Used:
+- MySQL: Relational database management system based on SQL
+- Structured Query Language, used in this application to contain and query employee and company data.
+- Express.js - Used for application set up of middleware for end-point connection between the front-end and back-end.
+- Node.js - Used for package managment and to execute JavaScript code to build command line tool for server-side scripting.
+- Javascript - Used to base functionality of functions and prompts within the application.
+- Git - Version control system to track changes to source code
+- GitHub - Hosts repository that can be deployed to GitHub Pages
 
 Design the following database schema containing three tables:
 
