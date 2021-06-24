@@ -14,6 +14,7 @@ I was tasked with creating an Employee Tracker CLI application for building and 
 
 ## Usage Instructions
 - In order to use this application you will need to first run an npm install in your CLI to install the dependencies that have been loaded into the json files for you. Once this is done, run node app.js in your CLI to start the prompts that will walk you through the various tasks you can perform with this application.
+- In the `app.js` file, make sure to update your password to reflect that of your MySQL.
 
 
 ## Technologies Used:
