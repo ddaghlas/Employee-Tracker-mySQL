@@ -5,12 +5,15 @@ I was tasked with creating an Employee Tracker CLI application for building and 
 
 
 ## DEMO
-- Click on the GIF for a longer tutorial!
+
+- Click on the GIF for a link to the full video!
+
+[![usage video](./images/GIFMySQL.gif)](https://drive.google.com/file/d/1Csg3LriIwpeIVdYwlBDxqMdzyDFnBEjf/vie)
 
 
 
 ## Usage Instructions
-- In order to use this application you will need to first run an npm install in your CLI to install the dependencies that have been loaded into the json files for you. Once this is done, run node connection.js in your CLI to start the prompts that will walk you through the various tasks you can perform with this application.
+- In order to use this application you will need to first run an npm install in your CLI to install the dependencies that have been loaded into the json files for you. Once this is done, run node app.js in your CLI to start the prompts that will walk you through the various tasks you can perform with this application.
 
 
 ## Technologies Used:
@@ -23,7 +26,6 @@ I was tasked with creating an Employee Tracker CLI application for building and 
 - GitHub - Hosts repository that can be deployed to GitHub Pages
 - [npmjs](https://docs.npmjs.com/)
 - [Inquirer](https://www.npmjs.com/package/inquirer)
-
 
 ## License
 
