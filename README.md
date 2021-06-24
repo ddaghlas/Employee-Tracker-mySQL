@@ -8,7 +8,7 @@ I was tasked with creating an Employee Tracker CLI application for building and 
 
 - Click on the GIF for a link to the full video!
 
-[![usage video](./images/GIFMySQL.gif)](https://drive.google.com/file/d/1Csg3LriIwpeIVdYwlBDxqMdzyDFnBEjf/vie)
+[![usage video](./images/GIFMySQL.gif)](https://drive.google.com/file/d/1Csg3LriIwpeIVdYwlBDxqMdzyDFnBEjf/view)
 
 
 
